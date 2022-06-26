@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Roboto&family=Sofia&family=Trocchi&family=Ubuntu&display=swap');
+
+html{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#main-footer{
+    margin-top: 10rem;
+}
+
+#avatar{
+    margin-top: 6rem !important;
+}
+
+.title-card{
+    font-size: 1.2rem;
+}
+
+.a-menu:hover{
+    background-color: rgb(197, 193, 193);
+}
